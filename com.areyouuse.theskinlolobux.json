@@ -7,18 +7,18 @@
         "medrec": ["am", "fb", "is"]
     },
     "fb": {
-        "nat": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "ban": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "int": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "natban": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "medrec": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "nat": "1713188548864301_1713209648862191",
+        "ban": "",
+        "int": "",
+        "natban": "1713188548864301_1713210248862131",
+        "medrec": "1713188548864301_1713209105528912"
     },
     "am": {
-        "pub": "pub-3940256099942544",
-        "ban": "ca-app-pub-3940256099942544/6300978111",
-        "int": "ca-app-pub-3940256099942544/1033173712",
-        "larban": "ca-app-pub-3940256099942544/6300978111",
-        "medrec": "ca-app-pub-3940256099942544/6300978111"
+        "pub": "",
+        "ban": "",
+        "int": "",
+        "larban": "",
+        "medrec": ""
     },
     "is":{
         "app": "103a39569"
